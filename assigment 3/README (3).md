@@ -1,5 +1,5 @@
 # Number Theory and Cryptography Workshop
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hFRc_HlBeZMC_K1w3MxtUyMAc9Nk854K)
 **Author:** Md. Samiul Haque Ruf
 **ID:** IT-23011
 **File:** `Number_Theory_and_Cryptography_Workshop.ipynb` (Python 3, Jupyter / Google Colab)
